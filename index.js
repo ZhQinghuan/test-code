@@ -9,23 +9,4 @@ const user = {
 
 user.updateEmail('new@email.com')
 console.log(user.email)
-
-// 生成冒泡排序
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // my@email.com
