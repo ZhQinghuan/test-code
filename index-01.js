@@ -4,9 +4,7 @@ const user = {
     city: '苏州'
   }
 }
-
 Object.freeze(user)
-
 user.name = '李四'
 delete user.address
 user.school = { city: '安徽' }
